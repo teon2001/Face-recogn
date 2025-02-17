@@ -1,4 +1,4 @@
-Necula Andreea - hw5
+# FACES
 
 Def. „Eigenfaces este o metodă clasică de recunoaștere facială, utilizând 
 PCA pentru a reduce dimensiunea imaginilor și pentru a extrage caracteristici 
